@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="UlarWeling" size="1.000000 1.333897" />
+    <ImageTarget name="UlarWelang" size="1.000000 1.333897" />
+    <ImageTarget name="UlarTanah" size="1.000000 1.333897" />
+    <ImageTarget name="UlarSancaKembang" size="1.000000 1.333897" />
+    <ImageTarget name="UlarSancaDrah" size="1.000000 1.333897" />
+    <ImageTarget name="UlarSancaBodo" size="1.000000 1.333897" />
+    <ImageTarget name="UlarPuraca" size="1.000000 1.333897" />
+    <ImageTarget name="UlarLautErabu" size="1.000000 1.333897" />
+    <ImageTarget name="UlarKepalaDua" size="1.000000 1.333897" />
+    <ImageTarget name="UlarKawat" size="1.000000 1.333897" />
+    <ImageTarget name="KobraJawa" size="1.000000 1.333897" />
+    <ImageTarget name="KingCobra" size="1.000000 1.333897" />
+  </Tracking>
+</QCARConfig>
